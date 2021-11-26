@@ -1,0 +1,13 @@
+{
+    "description": "Portfolio website for AVIXITY",
+    "repo": "https://github.com/avixityyt/register.github.io",
+    "owner": {
+      "username": "avixity",
+      "email": "avixityyt@gmail.com",
+      "twitter": "AvixityYT"
+    },
+    "record": {
+      "CNAME": "avixity.github.io"
+    }
+  }
+  
