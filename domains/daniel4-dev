@@ -1,0 +1,11 @@
+{
+  "description": "Daniel Barton's Games Site",
+  "repo": "https://github.com/daniel4-scratch/daniel4-scrcatch.github.io",
+  "owner": {
+    "username": "daniel4-scratch",
+    "email": "llama552621@gmail.com"
+  },
+  "record": {
+    "CNAME": "http://daniel4-scratch.indie.af"
+  }
+}
